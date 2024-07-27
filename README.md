@@ -3,6 +3,15 @@
 - 📫 You can reach us via email at [teamequinox@gmail.com](mailto:teamequinox@gmail.com).
 - 😄 Pronouns: they/them
 ## Project Overview
+
+-About this project:
+
+
+
+
+
+
+
 We have worked on a variety of Android and web projects, including:
 
 - **Electricity And Water Tracking App**: Aimed to reduce electricity and water consumption of people by monitoring it using an app.
