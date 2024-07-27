@@ -9,7 +9,7 @@ We have worked on a variety of Android and web projects, including:
 - **Waste Management App**: Aimed To reduce waste generation by common people by selling it to the companies and industries.
 
 
-- ⚡ Fun fact:  We once built a project entirely out of LEGO bricks for a hackathon!
+⚡ Fun fact:  We once built a project entirely out of LEGO bricks for a hackathon!
 
 <!---
 TeamEquinox-05/TeamEquinox-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
