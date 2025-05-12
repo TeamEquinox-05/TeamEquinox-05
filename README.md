@@ -1,23 +1,19 @@
-- 👋 Hi, We TeamEquinox
-- 👀 We are a group of developers
-- 📫 You can reach us via email at [teamequinox@gmail.com](mailto:teamequinox@gmail.com).
-- 😄 Pronouns: they/them
+# 👋 Hi, We Are TeamEquinox
 
-#Team Members
--Rhugved Dangui
--Tanmay Desai
--Fayaz Khan
+We are a group of developers passionate about building impactful Android and web-based solutions.  
+💡 We build software solutions for real-world problems.
 
+📫 **Contact Us:** [teamequinox@gmail.com](mailto:teamequinox@gmail.com)  
+😄 **Pronouns:** they/them
 
+---
 
+## 👥 Team Members
+- Rhugved Dangui  
+- Tanmay Desai  
+- Fayaz Khan  
 
-
-
-
-We have worked on a variety of Android and web projects, including:
-
-- **Electricity And Water Tracking App**: Aimed to reduce electricity and water consumption of people by monitoring it using an app.
-- **Waste Management App**: Aimed To reduce waste generation by common people by selling it to the companies and industries.
+---
 
 <!---
 TeamEquinox-05/TeamEquinox-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
